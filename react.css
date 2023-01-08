@@ -1,0 +1,21 @@
+body
+{
+    font-family: 'Arial';
+    background-color : whitesmoke;
+}
+img
+{
+    width:81px; 
+    height:71px;
+    margin-right:10px;
+}
+table{
+    border-collapse : collapse;
+}
+th,td{
+    border : 2px solid black;
+    padding : 5px;
+}
+#hautPage{
+    float:left;
+}
